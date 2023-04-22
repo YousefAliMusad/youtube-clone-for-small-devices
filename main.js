@@ -21,10 +21,3 @@ let getdata = () => {
 }
 
 getdata();
-// How to make your personal soc
-// Create a sub domain for your 
-// HOW TO CHECK IF THE USER IS 
-// Create Product Card Design by
-// Create Social Media Viewer By
-// Create Age Calculator Using h
-// HOW TO ADD FONT AWESOME LINK 
